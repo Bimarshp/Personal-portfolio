@@ -21,6 +21,14 @@ width: 29px;
 height: 32px;
 
 }
+.imagee{
+    border-radius: 150px;
+    height: 300px;
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+
 .title2{
     text-align: left;
     padding: 100px 0px 60px 0px;
@@ -234,10 +242,10 @@ section .title::after{
     width: 45%;
 }
 .about .about-content .left img{
-    height: 500px;
-    width: 500px;
+    height: 413px;
+    width: 397px;
     object-fit: cover;
-    border-radius: 66px;
+    border-radius: 962px;
 }
 .about .about-content .right{
     width: 55%;
